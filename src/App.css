@@ -44,7 +44,8 @@
 .min-max {
   min-width: 600;
   min-height: 500;
-  max-width: 19%;
-  max-height: 4%;
+  max-width: 400px;
+  max-height: 400px;
   border-radius: 2%;
+  object-fit: cover;
 }
